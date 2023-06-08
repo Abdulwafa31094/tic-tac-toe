@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe 
+Demo : https://abdulwafa31094.github.io/tic-tac-toe/
+# Description
+* This is the simple javascript game in which two player will play the game. In this either X or O can win.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Languages 
+* HTML
+* CSS
+* JavaScript
+
 
 ## Available Scripts
 
