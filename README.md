@@ -8,7 +8,11 @@ Demo : https://abdulwafa31094.github.io/tic-tac-toe/
 * CSS
 * JavaScript
 
-
+## Installation
+To get a local copy up and running, just Clone the repo
+        
+                  git clone https://github.com/Abdulwafa31094/tic-tac-toe
+and fire up the Local Development server using Live Server extension.
 ## Available Scripts
 
 In the project directory, you can run:
