@@ -1,7 +1,7 @@
 # Tic-Tac-Toe 
 Demo : https://abdulwafa31094.github.io/tic-tac-toe/
 # Description
-* This is the simple javascript game in which two player will play the game. In this either X or O can win.
+* This is the simple React game in which two player will play the game. In this either X or O can win.
 
 # Prerequisite 
 * HTML
