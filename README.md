@@ -3,7 +3,7 @@ Demo : https://abdulwafa31094.github.io/tic-tac-toe/
 # Description
 * This is the simple javascript game in which two player will play the game. In this either X or O can win.
 
-# Languages 
+# Prerequisite 
 * HTML
 * CSS
 * JavaScript
@@ -12,7 +12,8 @@ Demo : https://abdulwafa31094.github.io/tic-tac-toe/
 To get a local copy up and running, just Clone the repo
         
                   git clone https://github.com/Abdulwafa31094/tic-tac-toe
-and fire up the Local Development server using Live Server extension.
+                  
+                  
 ## Available Scripts
 
 In the project directory, you can run:
